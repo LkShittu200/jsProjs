@@ -2,7 +2,7 @@
 
 */
 
-/*const btn = document.querySelector(".btn");
+const btn = document.querySelector(".btn");
 const person = document.querySelector(".person");
 const quote = document.querySelector(".quote");
 
@@ -43,4 +43,3 @@ btn.addEventListener("click", function () {
   quote.innerHTML = quotes[random].quote;
   person.innerHTML = quotes[random].person;
 });
-*/
